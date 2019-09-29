@@ -1,1 +1,8 @@
+#directorio descomprimido
 /GRUPO03
+
+#archivos apple
+.DS_Store
+
+#version pages del enunciado
+sotp2019_2C_Grupoxx.pages
