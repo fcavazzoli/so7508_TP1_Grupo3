@@ -93,12 +93,39 @@
 
   # Uso del programa
   
+  Para utilizar el software el usuario debe dirigirse a la carpeta donde se encuentran los archivos ejecutables.
 
+  A partir de este momento llamaremos `bin` al directorio al que el usuario se le pidio que ingrege un nombre para los archivos ejecutables es decir, cuado el intalador requirió de la informacion `NOMBRE_DESEADO_PARA_EL_DERECTORIO_EJECUTABLES`
 
+  `bin = {NOMBRE_DESEADO_PARA_EL_DERECTORIO_EJECUTABLES}`
 
+  ## Ejecucion:
 
+  acceder a la carpeta de arcivos ejecutables:
 
+  `cd bin`
 
+  Luego hay que inicializar el ambiente. 
+  Para hacerlo basta con hacer el siguiente comando.
 
+  `sh init.sh`
 
+  ### Log files
+
+  Llegado este momento, es necesario aclararle al usuario que cualquier inconveniente durante el uso del programa sera registrado mediante un logger en archivos con nombres pertinentes al tipo de log que se realice. Todos estos archivos pueden ser encontrados en la carpeta config a la cual se accede haciendo:
+
+  `cd config/log` 
+  (si es que se esta parado en la carpeta raiz del programa)
+
+  ## Start file
+
+  Una vez iniciada la ejecucion con el archivo `init.sh` podemos ver si esta se encuentra efecticamente funcionando abriendo una nueva terminal y ejecuntando 
+
+  `sh start.sh` en la carpeta `bin`
+  
+  si el proceso ya existe la consola nos dirá algo del tipo:
+
+  `El proceso ya esta corriendo: PID: XXXX`
+
+  
 
