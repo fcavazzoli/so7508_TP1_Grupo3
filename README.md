@@ -9,13 +9,28 @@
  
  En este documento de detallaran los pasos a seguir para instalar correctamente el paquete que esta incluido en el repositorio: `TPGRUPO3.tar.gz`.
  
- # Instalacion
+---
+# Indice
+ - [Instalacion](#instalacion)
+  * [Descarga del contenido:](#descarga-del-contenido-)
+    + [Path de descarga.](#path-de-descarga)
+  * [Desempaquetar paquete:](#desempaquetar-paquete-)
+  * [Instalacion:](#instalacion-)
+- [Uso del programa](#uso-del-programa)
+  * [Ejecucion:](#ejecucion-)
+    + [Log files](#log-files)
+  * [Start file](#start-file)
+  * [Stop file](#stop-file)
 
- ## Descarga del contenido:
+---
+
+# Instalacion
+
+## Descarga del contenido:
  
   Lo primero que se debe hacer es descargar el contenido de este repositorio a un ambiente local.
   
- ### Path de descarga.
+### Path de descarga.
 
   Precondicion: el usuario debe contar con git instalado en su computadora. De no ser este el caso se puede seguir el tutorial que propiociona la misma empresa GitHub en el siguiente link: 
   https://gist.github.com/derhuerst/1b15ff4652a867391f03
@@ -47,7 +62,7 @@
 
   En este punto podemos decir que el paquete ya esta descomprimido en nuestro ambiente de trabajo y estamos posicionados correctamente para ejecutarlo.
 
-  ## Instalacion:
+## Instalacion:
 
   Para iniciar la instalacion del programa debe ejecutarse el archivo `install.sh` utilizando el siguiente comando:
 
@@ -91,7 +106,7 @@
   Llegado este punto la instalacion ya finalizó.
 
 
-  # Uso del programa
+# Uso del programa
   
   Para utilizar el software el usuario debe dirigirse a la carpeta donde se encuentran los archivos ejecutables.
 
@@ -99,7 +114,7 @@
 
   `bin = {NOMBRE_DESEADO_PARA_EL_DERECTORIO_EJECUTABLES}`
 
-  ## Ejecucion:
+## Ejecucion:
 
   acceder a la carpeta de arcivos ejecutables:
 
@@ -110,14 +125,35 @@
 
   `sh init.sh`
 
-  ### Log files
+---
+
+### Log files
 
   Llegado este momento, es necesario aclararle al usuario que cualquier inconveniente durante el uso del programa sera registrado mediante un logger en archivos con nombres pertinentes al tipo de log que se realice. Todos estos archivos pueden ser encontrados en la carpeta config a la cual se accede haciendo:
 
   `cd config/log` 
   (si es que se esta parado en la carpeta raiz del programa)
 
-  ## Start file
+---
+  Siguiendo con el uso del programa:
+
+  Ahora que el programa se esta corriendo, simplemente hay que darle informacion para procesar. Para hacer esto se deben llevar archivos a la carpeta `NOMBRE_DESEADO_PARA_EL_DERECTORIO_NOVEDADES` que a partir de ahora llamaremos `novedades` es decir 
+
+  `novedades = {NOMBRE_DESEADO_PARA_EL_DERECTORIO_NOVEDADES}`
+
+  Es posible realizar esto con el comando `cp` que provee el sistema operativo.
+
+  `cp source destination`.
+
+  En nuestro caso, `destination` sera la carpeta ubicada en `TPGRUPO03/novedades` y como archivo fuente podemos tomar como ejemplo, los lotes ubicados en `TPGRUPO03/TP/Lotes\ de\ prueba`. Es decir que el comando completo quedaria de la forma:
+
+  `cp novedades TP/Lotes\ de\ prueba/Lote_XX`
+  (en el caso de que el usuario ya este parado en la carpeta TPGRUPO03)
+
+  Luego se debe esperar a que el proceso que esta en ejecucion capte el archivo nuevo que se encuentra  ahora en `novedades` y este lo procesara y lo dejara en la carpeta correspondiente.
+  Esto se realiza mientras se hacen los logs correspondientes, por lo que el usuario puede ir a ver en cualquier momento que es lo que pasó durante la ejecución del programa simplemente viendo el logfile.
+
+## Start file
 
   Una vez iniciada la ejecucion con el archivo `init.sh` podemos ver si esta se encuentra efecticamente funcionando abriendo una nueva terminal y ejecuntando 
 
@@ -127,5 +163,15 @@
 
   `El proceso ya esta corriendo: PID: XXXX`
 
-  
+## Stop file
+
+  Si se desea interrumpir la ejecucion del proceso se debe llamar a la ejecucion del arichivo `stop.sh` que se encuentra dentro de la carpeta `bin` haciendo
+
+  `sh stop.sh`
+
+  Otra opcion es matar el proceso con un comando que provee el sistema operativo como 
+
+  `kill -p [PID]`.
+
+  Pero se recomienda utilizar `stop.sh` que es un archivo que fue pensado para esta tarea y antes de terminar la ejecucion, escribe los archivos de log de forma correspondiente.
 
