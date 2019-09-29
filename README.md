@@ -25,4 +25,4 @@
   
   Para luego descargar todos los archivos del repositorio:
   
-  `git clone `
+  `git clone https://github.com/fedecavazzoli/so7508_TP1_Grupo3.git`
