@@ -1,0 +1,15 @@
+2019.10.01-ondartsflavio94-init.sh-INFO-Proceso de Inicializacion
+2019.10.01-ondartsflavio94-init.sh-INFO-Seteo variables FATHER_DIR = /Users/ondartsflavio94/sotest/TPGRUPO03
+2019.10.01-ondartsflavio94-init.sh-INFO-Seteo variables ACCEPTED_DIR = /Users/ondartsflavio94/sotest/TPGRUPO03/aceptados
+2019.10.01-ondartsflavio94-init.sh-INFO-Seteo variables CONF_DIR = /Users/ondartsflavio94/sotest/TPGRUPO03/conf
+2019.10.01-ondartsflavio94-init.sh-INFO-Seteo variables ARRIVALS_DIR = /Users/ondartsflavio94/sotest/TPGRUPO03/novedades
+2019.10.01-ondartsflavio94-init.sh-INFO-Seteo variables LOG_DIR = /Users/ondartsflavio94/sotest/TPGRUPO03/conf/log
+2019.10.01-ondartsflavio94-init.sh-INFO-Seteo variables MASTER_DIR = /Users/ondartsflavio94/sotest/TPGRUPO03/maestros
+2019.10.01-ondartsflavio94-init.sh-INFO-Seteo variables OUTPUT_DIR = /Users/ondartsflavio94/sotest/TPGRUPO03/salida
+2019.10.01-ondartsflavio94-init.sh-INFO-Seteo variables REJECTED_DIR = /Users/ondartsflavio94/sotest/TPGRUPO03/rechazados
+2019.10.01-ondartsflavio94-init.sh-INFO-Seteo variables PROCESSED_DIR = /Users/ondartsflavio94/sotest/TPGRUPO03/procesados
+2019.10.01-ondartsflavio94-init.sh-INFO-Seteo variables BIN_DIR = /Users/ondartsflavio94/sotest/TPGRUPO03/bin
+2019.10.01-ondartsflavio94-init.sh-ERROR-No existe el archivo maestro de 'CODIGOSISO8583.txt'.
+2019.10.01-ondartsflavio94-init.sh-ERROR-No se puede inicializar el sistema.
+2019.10.01-ondartsflavio94-init.sh-INFO-Debe reinstalar la aplicacion ejecutando el comando:
+2019.10.01-ondartsflavio94-init.sh-INFO- sh install.sh -r

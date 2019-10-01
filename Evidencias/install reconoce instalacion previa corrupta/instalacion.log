@@ -1,0 +1,98 @@
+20191001-ondartsflavio94-install.sh-INFO-Se crea directorio /Users/ondartsflavio94/sotest/TPGRUPO03/conf
+20191001-ondartsflavio94-install.sh-INFO-Se crea directorio /Users/ondartsflavio94/sotest/TPGRUPO03/conf/log
+20191001-ondartsflavio94-install.sh-INFO-Se ha generado el log de instalacion: /Users/ondartsflavio94/sotest/TPGRUPO03/conf/log/instalacion.log
+20191001-ondartsflavio94-install.sh-INFO-Se le pide al usuario el nombre de los directorios a crear
+20191001-ondartsflavio94-install.sh-INFO-Se comienza con el ingreso de los nombres
+20191001-ondartsflavio94-install.sh-INFO-Ingrese un nombre para el directorio de ejecutables (/Users/ondartsflavio94/sotest/TPGRUPO03/bin)
+20191001-ondartsflavio94-install.sh-INFO-Se ha ingresado un nombre vacío
+20191001-ondartsflavio94-install.sh-INFO-Se mantiene el nombre por defecto
+20191001-ondartsflavio94-install.sh-INFO-nombre elegido directorio archivos ejecutables:/Users/ondartsflavio94/sotest/TPGRUPO03/bin
+20191001-ondartsflavio94-install.sh-INFO-Ingrese un nombre para el directorio de archivos maestros (/Users/ondartsflavio94/sotest/TPGRUPO03/maestros)
+20191001-ondartsflavio94-install.sh-INFO-Se ha ingresado un nombre vacío
+20191001-ondartsflavio94-install.sh-INFO-Se mantiene el nombre por defecto
+20191001-ondartsflavio94-install.sh-INFO-nombre elegido archivos maestros:/Users/ondartsflavio94/sotest/TPGRUPO03/maestros
+20191001-ondartsflavio94-install.sh-INFO-Ingrese un nombre para el directorio de arribo de novedades (/Users/ondartsflavio94/sotest/TPGRUPO03/novedades)
+20191001-ondartsflavio94-install.sh-INFO-Se ha ingresado un nombre vacío
+20191001-ondartsflavio94-install.sh-INFO-Se mantiene el nombre por defecto
+20191001-ondartsflavio94-install.sh-INFO-Se ha ingresado el nombre para el directorio de arribo de novedades:/Users/ondartsflavio94/sotest/TPGRUPO03/novedades
+20191001-ondartsflavio94-install.sh-INFO-Ingrese un nombre para el directorio de novedades aceptadas (/Users/ondartsflavio94/sotest/TPGRUPO03/aceptados)
+20191001-ondartsflavio94-install.sh-INFO-Se ha ingresado un nombre vacío
+20191001-ondartsflavio94-install.sh-INFO-Se mantiene el nombre por defecto
+20191001-ondartsflavio94-install.sh-INFO-Se ha ingresado el nombre para el directorio de novedades aceptadas :/Users/ondartsflavio94/sotest/TPGRUPO03/aceptados
+20191001-ondartsflavio94-install.sh-INFO-Ingrese un nombre para el directorio de archivos rechazados (/Users/ondartsflavio94/sotest/TPGRUPO03/rechazados)
+20191001-ondartsflavio94-install.sh-INFO-Se ha ingresado un nombre vacío
+20191001-ondartsflavio94-install.sh-INFO-Se mantiene el nombre por defecto
+20191001-ondartsflavio94-install.sh-INFO-Se ha ingresado el nombre para el directorio de novedades rechazadas:/Users/ondartsflavio94/sotest/TPGRUPO03/rechazados
+20191001-ondartsflavio94-install.sh-INFO-Ingrese un nombre para el directorio de novedades procesadas (/Users/ondartsflavio94/sotest/TPGRUPO03/procesados)
+20191001-ondartsflavio94-install.sh-INFO-Se ha ingresado un nombre vacío
+20191001-ondartsflavio94-install.sh-INFO-Se mantiene el nombre por defecto
+20191001-ondartsflavio94-install.sh-INFO-Se ha ingresado el nombre para el directorio de archivos ya procesados:/Users/ondartsflavio94/sotest/TPGRUPO03/procesados
+20191001-ondartsflavio94-install.sh-INFO-Ingrese un nombre para el directorio de archivos de salida (/Users/ondartsflavio94/sotest/TPGRUPO03/salida)
+20191001-ondartsflavio94-install.sh-INFO-Se ha ingresado un nombre vacío
+20191001-ondartsflavio94-install.sh-INFO-Se mantiene el nombre por defecto
+20191001-ondartsflavio94-install.sh-INFO-Se ha ingresado el nombre para el directorio de archivos de salida:/Users/ondartsflavio94/sotest/TPGRUPO03/salida
+20191001-ondartsflavio94-install.sh-INFO-TP SO7508 Segundo Cuatrimestre 2019 Copyright © Grupo 03
+20191001-ondartsflavio94-install.sh-INFO-Directorio padre /Users/ondartsflavio94/sotest/TPGRUPO03
+20191001-ondartsflavio94-install.sh-INFO-Directorio de archivos de configuración: /Users/ondartsflavio94/sotest/TPGRUPO03/conf
+20191001-ondartsflavio94-install.sh-INFO-Directorio de archivos de log: /Users/ondartsflavio94/sotest/TPGRUPO03/conf/log
+20191001-ondartsflavio94-install.sh-INFO-Directorio de ejecutables: /Users/ondartsflavio94/sotest/TPGRUPO03/bin
+20191001-ondartsflavio94-install.sh-INFO-Directorio de archivos maestros: /Users/ondartsflavio94/sotest/TPGRUPO03/maestros
+20191001-ondartsflavio94-install.sh-INFO-Directorio de novedades: /Users/ondartsflavio94/sotest/TPGRUPO03/novedades
+20191001-ondartsflavio94-install.sh-INFO-Directorio de novedades aceptadas: /Users/ondartsflavio94/sotest/TPGRUPO03/aceptados
+20191001-ondartsflavio94-install.sh-INFO-Directorio de novedades rechazadas: /Users/ondartsflavio94/sotest/TPGRUPO03/rechazados
+20191001-ondartsflavio94-install.sh-INFO-Directorio de novedades procesadas: /Users/ondartsflavio94/sotest/TPGRUPO03/procesados
+20191001-ondartsflavio94-install.sh-INFO-Directorio con output: /Users/ondartsflavio94/sotest/TPGRUPO03/salida
+20191001-ondartsflavio94-install.sh-INFO-Estado de la instalación: LISTA
+20191001-ondartsflavio94-install.sh-INFO-¿Desea confirmar la instalación? (s/n):
+20191001-ondartsflavio94-install.sh-INFO-No ha ingresado ninguna opcion.
+20191001-ondartsflavio94-install.sh-INFO-Se ha ingresado la opción: s
+20191001-ondartsflavio94-install.sh-INFO-Se ha creado el archivo tpconfig.txt
+20191001-ondartsflavio94-install.sh-INFO-Se agregan los valores al archivo tpconfig.txt
+20191001-ondartsflavio94-install.sh-INFO-tpconfig: CONF_DIR-/Users/ondartsflavio94/sotest/TPGRUPO03/conf
+20191001-ondartsflavio94-install.sh-INFO-tpconfig: LOG_DIR-/Users/ondartsflavio94/sotest/TPGRUPO03/conf/log
+20191001-ondartsflavio94-install.sh-INFO-tpconfig: MASTER_DIR-/Users/ondartsflavio94/sotest/TPGRUPO03/maestros
+20191001-ondartsflavio94-install.sh-INFO-tpconfig: ARRIVALS_DIR-/Users/ondartsflavio94/sotest/TPGRUPO03/novedades
+20191001-ondartsflavio94-install.sh-INFO-tpconfig: ACCEPTED_DIR-/Users/ondartsflavio94/sotest/TPGRUPO03/aceptados
+20191001-ondartsflavio94-install.sh-INFO-tpconfig: REJECTED_DIR-/Users/ondartsflavio94/sotest/TPGRUPO03/rechazados
+20191001-ondartsflavio94-install.sh-INFO-tpconfig: PROCESSED_DIR-/Users/ondartsflavio94/sotest/TPGRUPO03/procesados
+20191001-ondartsflavio94-install.sh-INFO-tpconfig: OUTPUT_DIR-/Users/ondartsflavio94/sotest/TPGRUPO03/salida
+20191001-ondartsflavio94-install.sh-INFO-tpconfig: BIN_DIR-/Users/ondartsflavio94/sotest/TPGRUPO03/bin
+20191001-ondartsflavio94-install.sh-INFO-Se ha creado: /Users/ondartsflavio94/sotest/TPGRUPO03/bin
+20191001-ondartsflavio94-install.sh-INFO-Se ha creado: /Users/ondartsflavio94/sotest/TPGRUPO03/maestros
+20191001-ondartsflavio94-install.sh-INFO-Se ha creado:/Users/ondartsflavio94/sotest/TPGRUPO03/novedades
+20191001-ondartsflavio94-install.sh-INFO-Se ha creado:/Users/ondartsflavio94/sotest/TPGRUPO03/aceptados
+20191001-ondartsflavio94-install.sh-INFO-Se ha creado:/Users/ondartsflavio94/sotest/TPGRUPO03/rechazados
+20191001-ondartsflavio94-install.sh-INFO-Se ha creado:/Users/ondartsflavio94/sotest/TPGRUPO03/procesados
+20191001-ondartsflavio94-install.sh-INFO-Se ha creado:/Users/ondartsflavio94/sotest/TPGRUPO03/salida
+20191001-ondartsflavio94-install.sh-INFO-Se ha instalado exitosamente
+20191001-ondartsflavio94-install.sh-INFO-TP SO7508 Segundo Cuatrimestre 2019. Copyright © Grupo 03
+20191001-ondartsflavio94-install.sh-INFO-Directorio padre: /Users/ondartsflavio94/sotest/TPGRUPO03
+20191001-ondartsflavio94-install.sh-INFO-Ruta de la carpeta de novedades aceptadas: /Users/ondartsflavio94/sotest/TPGRUPO03/aceptados
+20191001-ondartsflavio94-install.sh-INFO-Ruta del directorio conf: /Users/ondartsflavio94/sotest/TPGRUPO03/conf
+20191001-ondartsflavio94-install.sh-INFO-Ruta de la carpeta de arribos: /Users/ondartsflavio94/sotest/TPGRUPO03/novedades
+20191001-ondartsflavio94-install.sh-INFO-Ruta del directorio de los archivos log: /Users/ondartsflavio94/sotest/TPGRUPO03/conf/log
+20191001-ondartsflavio94-install.sh-INFO-Ruta de la carpeta de maestros: /Users/ondartsflavio94/sotest/TPGRUPO03/maestros
+20191001-ondartsflavio94-install.sh-INFO-Ruta del directorio de salida: /Users/ondartsflavio94/sotest/TPGRUPO03/salida
+20191001-ondartsflavio94-install.sh-INFO-Ruta del directorio de rechazados: /Users/ondartsflavio94/sotest/TPGRUPO03/rechazados
+20191001-ondartsflavio94-install.sh-INFO-Ruta del directorio ya procesados: /Users/ondartsflavio94/sotest/TPGRUPO03/procesados
+20191001-ondartsflavio94-install.sh-ATENCION-Se ha detectado una instalación previa
+20191001-ondartsflavio94-install.sh-INFO-Se ha encontrado un archivo de configuración de instalación previa
+20191001-ondartsflavio94-install.sh-INFO-Se realizará test del estado de la instalación anterior
+20191001-ondartsflavio94-install.sh-ATENCION-Test de reparación: Falta archivo CODIGOSISO8583.txt
+20191001-ondartsflavio94-install.sh-ATENCION-Reparación necesaria
+20191001-ondartsflavio94-install.sh-ATENCION-Se debe reparar la instalación.
+20191001-ondartsflavio94-install.sh-ATENCION-Para repararse debe instalar de vuelta con la opción '-r'
+20191001-ondartsflavio94-install.sh-INFO-Saliendo de proceso de instalación
+20191001-ondartsflavio94-install.sh-INFO-Se ha ingresado la opción de reparación '-r'
+20191001-ondartsflavio94-install.sh-ATENCION-Se ha detectado una instalación previa
+20191001-ondartsflavio94-install.sh-INFO-Se ha encontrado un archivo de configuración de instalación previa
+20191001-ondartsflavio94-install.sh-INFO-Se realizará test del estado de la instalación anterior
+20191001-ondartsflavio94-install.sh-ATENCION-Test de reparación: Falta archivo CODIGOSISO8583.txt
+20191001-ondartsflavio94-install.sh-ATENCION-Reparación necesaria
+20191001-ondartsflavio94-install.sh-ATENCION-Se debe reparar la instalación.
+20191001-ondartsflavio94-install.sh-INFO-Se ha copiado: /Users/ondartsflavio94/sotest/TPGRUPO03/TP/maestros/CODIGOSISO8583.txt a: /Users/ondartsflavio94/sotest/TPGRUPO03/maestros
+20191001-ondartsflavio94-install.sh-INFO-Se ha creado el directorio /Users/ondartsflavio94/sotest/TPGRUPO03/bin/shell
+20191001-ondartsflavio94-install.sh-INFO-Se restaurará shell/log.sh
+20191001-ondartsflavio94-install.sh-INFO-Se ha copiado: /Users/ondartsflavio94/sotest/TPGRUPO03/TP/comandos/shell/log.sh a: /Users/ondartsflavio94/sotest/TPGRUPO03/bin
+20191001-ondartsflavio94-install.sh-INFO-Se ha reparado la instalación en base a /Users/ondartsflavio94/sotest/TPGRUPO03/conf/tpconfig.txt
+20191001-ondartsflavio94-install.sh-INFO-Instalación reparada
