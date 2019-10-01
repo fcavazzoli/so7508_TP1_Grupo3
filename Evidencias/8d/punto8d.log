@@ -1,0 +1,58 @@
+Seteo variables FATHER_DIR = /home/emanuel/Facultad/Sisop/so7508_TP1_Grupo3/GRUPO03
+Seteo variables ACCEPTED_DIR = /home/emanuel/Facultad/Sisop/so7508_TP1_Grupo3/GRUPO03/dirAceptadas
+Seteo variables CONF_DIR = /home/emanuel/Facultad/Sisop/so7508_TP1_Grupo3/GRUPO03/conf
+Seteo variables ARRIVALS_DIR = /home/emanuel/Facultad/Sisop/so7508_TP1_Grupo3/GRUPO03/dirNovedades
+Seteo variables LOG_DIR = /home/emanuel/Facultad/Sisop/so7508_TP1_Grupo3/GRUPO03/conf/log
+Seteo variables LOG_DIR = /home/emanuel/Facultad/Sisop/so7508_TP1_Grupo3/GRUPO03/conf/log
+Seteo variables MASTER_DIR = /home/emanuel/Facultad/Sisop/so7508_TP1_Grupo3/GRUPO03/dirMaestros
+Seteo variables OUTPUT_DIR = /home/emanuel/Facultad/Sisop/so7508_TP1_Grupo3/GRUPO03/dirSalida
+Seteo variables REJECTED_DIR = /home/emanuel/Facultad/Sisop/so7508_TP1_Grupo3/GRUPO03/dirRechazados
+Seteo variables PROCESSED_DIR = /home/emanuel/Facultad/Sisop/so7508_TP1_Grupo3/GRUPO03/dirProcesados
+Seteo variables BIN_DIR = /home/emanuel/Facultad/Sisop/so7508_TP1_Grupo3/GRUPO03/dirEjecutables
+2019.09.30-emanuel-init.sh-INFO-Proceso de Inicializacion
+2019.09.30-emanuel-init.sh-INFO-Cantidad de procesos corriendo 0
+2019.09.30-emanuel-init.sh-INFO-El proceso NO esta corriendo.
+2019.09.30-emanuel-start.sh-INFO-Se procederá a iniciar el proceso
+2019.09.30-emanuel-start.sh-INFO-Saliendo del proceso init.sh
+2019.09.30-emanuel-process.sh-INFO-El proceso ha comenzado a correr
+2019.09.30-emanuel-process.sh-INFO-Inicio ciclo de procesamiento número: 1
+2019.09.30-emanuel-process.sh-INFO-Fin de ciclo de procesamiento número: 1
+2019.09.30-emanuel-process.sh-INFO-Inicio ciclo de procesamiento número: 2
+2019.09.30-emanuel-process.sh-INFO-Comienza archivo de novedades: Lote_02
+2019.09.30-emanuel-process.sh-INFO-El archivo Lote_02 fue aceptado.
+2019.09.30-emanuel-process.sh-INFO-Se ha movido el archivo Lote_02 desde /home/emanuel/Facultad/Sisop/so7508_TP1_Grupo3/GRUPO03/dirNovedades hacia /home/emanuel/Facultad/Sisop/so7508_TP1_Grupo3/GRUPO03/dirAceptadas
+2019.09.30-emanuel-process.sh-INFO-Numero de transacciones indicadas en el cierre del lote: 6
+2019.09.30-emanuel-process.sh-INFO-Cantidad de transacciones existentes en el archivo: 6
+2019.09.30-emanuel-process.sh-INFO-El registro trailer se encuentra OK.
+2019.09.30-emanuel-process.sh-INFO-Fin de ciclo de procesamiento número: 2
+2019.09.30-emanuel-process.sh-INFO-Inicio ciclo de procesamiento número: 3
+2019.09.30-emanuel-process.sh-INFO-Comienza archivo de novedades: Lote_03
+2019.09.30-emanuel-process.sh-INFO-El archivo Lote_03 fue aceptado.
+2019.09.30-emanuel-process.sh-INFO-Se ha movido el archivo Lote_03 desde /home/emanuel/Facultad/Sisop/so7508_TP1_Grupo3/GRUPO03/dirNovedades hacia /home/emanuel/Facultad/Sisop/so7508_TP1_Grupo3/GRUPO03/dirAceptadas
+2019.09.30-emanuel-process.sh-INFO-Numero de transacciones indicadas en el cierre del lote: 6
+2019.09.30-emanuel-process.sh-INFO-Cantidad de transacciones existentes en el archivo: 6
+2019.09.30-emanuel-process.sh-INFO-El registro trailer se encuentra OK.
+2019.09.30-emanuel-process.sh-INFO-Fin de ciclo de procesamiento número: 3
+2019.09.30-emanuel-process.sh-INFO-Inicio ciclo de procesamiento número: 4
+2019.09.30-emanuel-process.sh-INFO-Comienza archivo de novedades: Lote_04
+2019.09.30-emanuel-process.sh-INFO-El archivo Lote_04 fue aceptado.
+2019.09.30-emanuel-process.sh-INFO-Se ha movido el archivo Lote_04 desde /home/emanuel/Facultad/Sisop/so7508_TP1_Grupo3/GRUPO03/dirNovedades hacia /home/emanuel/Facultad/Sisop/so7508_TP1_Grupo3/GRUPO03/dirAceptadas
+2019.09.30-emanuel-process.sh-INFO-Numero de transacciones indicadas en el cierre del lote: 6
+2019.09.30-emanuel-process.sh-INFO-Cantidad de transacciones existentes en el archivo: 6
+2019.09.30-emanuel-process.sh-INFO-El registro trailer se encuentra OK.
+2019.09.30-emanuel-process.sh-INFO-Fin de ciclo de procesamiento número: 4
+2019.09.30-emanuel-process.sh-INFO-Inicio ciclo de procesamiento número: 5
+2019.09.30-emanuel-process.sh-INFO-Comienza archivo de novedades: Lote_05
+2019.09.30-emanuel-process.sh-INFO-El archivo Lote_05 fue aceptado.
+2019.09.30-emanuel-process.sh-INFO-Se ha movido el archivo Lote_05 desde /home/emanuel/Facultad/Sisop/so7508_TP1_Grupo3/GRUPO03/dirNovedades hacia /home/emanuel/Facultad/Sisop/so7508_TP1_Grupo3/GRUPO03/dirAceptadas
+2019.09.30-emanuel-process.sh-INFO-Numero de transacciones indicadas en el cierre del lote: 6
+2019.09.30-emanuel-process.sh-INFO-Cantidad de transacciones existentes en el archivo: 6
+2019.09.30-emanuel-process.sh-INFO-El registro trailer se encuentra OK.
+2019.09.30-emanuel-process.sh-INFO-Fin de ciclo de procesamiento número: 5
+2019.09.30-emanuel-process.sh-INFO-Inicio ciclo de procesamiento número: 6
+2019.09.30-emanuel-process.sh-INFO-Fin de ciclo de procesamiento número: 6
+2019.09.30-emanuel-process.sh-ATEN-El proceso fue detenido
+2019.09.30-emanuel-process.sh-INFO-Terminando proceso
+2019.09.30-emanuel-stop.sh-INFO-Se ha encontrado archivo conf/running_process.txt
+2019.09.30-emanuel-stop.sh-INFO-Se ha modificado el parametro del proceso para detenerlo
+2019.09.30-emanuel-stop.sh-INFO-Se sale del proceso stop.sh
